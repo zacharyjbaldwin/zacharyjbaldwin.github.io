@@ -1,16 +1,19 @@
 {
     "UpdateChecker.py":
     {
+        "name": "UpdateChecker.py",
         "latest_version": 1.0,
         "latest_update_description": "Initial release."
     },
     "TestApp_1":
     {
+        "name": "TestApp_1",
         "latest_version": 3.9,
         "latest_update_description": "Fixed interface issues."
     },
     "TestApp_2":
     {
+        "name": "TestApp_2",
         "latest_version": 6.4,
         "latest_update_description": "Added Git integration."
     }
